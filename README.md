@@ -10,10 +10,6 @@ GenZ Health is an **AI-powered web application** designed to **predict heart dis
 ✅ **Responsive Design** with Pastel UI  
 ✅ **GitHub Pages Hosting Support**  
 
----
-
-## 📸 **Project Preview**
-![Project Screenshot](https://yourimageurl.com) *(Replace with actual image link)*
 
 ---
 
@@ -29,5 +25,5 @@ GenZ Health is an **AI-powered web application** designed to **predict heart dis
 ## 🚀 **How to Run the Project Locally**
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/genz-health.git
-cd genz-health
+git clone https://github.com/taslim-code/GenZ-Heart-Smart-AI-Health-Companion.git
+cd GenZ-Heart-Smart-AI-Health-Companion.git
